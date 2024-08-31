@@ -4,6 +4,8 @@ void setup(){
 
 void loop(){
  Serial.print("Hola, mi nombre es Martín ");
+ 
  Serial.println("vivo en el sur de Chile 🇨🇱");
-  Serial.print("estoy aprendiendo Arduino ");
+ 
+ Serial.print("estoy aprendiendo Arduino ");
  
